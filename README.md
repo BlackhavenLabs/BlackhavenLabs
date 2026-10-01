@@ -1,6 +1,4 @@
-# Eric Blackman
-
-I'm Eric, and Blackhaven Labs is the name I use to document my projects.
+I'm Eric, and **Blackhaven Labs** is the name I use to document my projects.
 
 I like building things, improving processes, and turning what I learn into something useful for others.
 
